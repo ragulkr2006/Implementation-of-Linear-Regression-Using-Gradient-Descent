@@ -57,7 +57,23 @@ print(prediction)
 print(f"Predicted value: {pre}")
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+## DATA INFORMATION:
+![image](https://github.com/user-attachments/assets/2980686e-7ecd-4a9f-9020-21e443883096)
+
+## VALUE OF X:
+![image](https://github.com/user-attachments/assets/7eef9178-29ba-4772-aeea-158ae4947ef8)
+
+## VALUE OF X1 SCALED:
+![image](https://github.com/user-attachments/assets/5b65776a-df98-4b0c-996e-90a8ccb83070)
+
+## PREDICTED VALUE :
+![image](https://github.com/user-attachments/assets/d0fbc44e-8669-4284-9c09-1fc6c4e80285)
+
+
+
+
+
 
 
 ## Result:
