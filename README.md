@@ -57,8 +57,20 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 
-
-
+output :
+# profit prediction Graph:
+![image](https://github.com/user-attachments/assets/8c5d0241-fcbf-4625-a168-ef50bf444485)
+![image](https://github.com/user-attachments/assets/e35460e7-3fd9-422f-b200-f21ba749e4be)
+# Compute cost value :
+![image](https://github.com/user-attachments/assets/c08c7b4f-b421-4216-9bef-3d293ed7f753)
+# h(x)Value :
+![image](https://github.com/user-attachments/assets/55cff9bf-39c1-47ef-a92c-60c27771f54f)
+# Cost function using Gradient Descent Graph :
+![image](https://github.com/user-attachments/assets/abca4a73-1ef1-478d-9d2d-33dce3a48556)
+# Profit for the Population 35,000 :
+![image](https://github.com/user-attachments/assets/dd722223-ba67-4d9e-9003-0ece954e6f93)
+# Profit for the Population 70,000 :
+![image](https://github.com/user-attachments/assets/ac18ed21-a091-4d34-9ad7-5d637002e160)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
